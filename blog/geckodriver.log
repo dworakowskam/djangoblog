@@ -320,3 +320,6 @@ JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_E
 Read port: 59249
 1675624305261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MD\\AppData\\Local\\Temp\\rust_mozprofile2FD2kh\\search.json.mozlz4", (void 0)))
+1675624893273	Marionette	INFO	Stopped listening on port 59249
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
